@@ -1,3 +1,28 @@
+![Captura de Tela (115)](https://github.com/PauloAquarius0299/italian-restaurante-web/assets/114706743/f8786297-ec90-4663-98a1-3a6736141c0e)
+
+# 🍕 Italian Restaurant Website
+Criei uma interface ecommerce de restaurante com espansividade e rotas pelas paginas no navbar com React, Booststrap, CSS e JavaScript
+## 🍝 Introdução
+O Ecommerce apresenta uma interface estilizada com o tema do resturante com padrão bem sofisticado e tradicional, adicionando espansividade para versão mobile e web, utilizando o framework BootsTrap. Instalando o React-Router-Dom para criar navegações entra as paginas pelo Navbar do Menu, Contatos e Sobre, apresentando uma boa interação e design coerente para os usuarios.
+### 💡 Pre-Requisitos
+Instalação do BootsTrap e React-Router-Dom; estilização com CSS puro para aplicação das imagens no inicio de cada pagina.
+### 🛠️ Ferramentas
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+# 🍛 LINK 
+https://italianrestaurant-web.netlify.app/
+![Captura de Tela (120)](https://github.com/PauloAquarius0299/italian-restaurante-web/assets/114706743/b141f112-381c-40ef-a8bd-3a5411bf3691)
+![Captura de Tela (116)](https://github.com/PauloAquarius0299/italian-restaurante-web/assets/114706743/af059200-d960-409c-8f1b-a9a14dc0d5d8)
+![Captura de Tela (117)](https://github.com/PauloAquarius0299/italian-restaurante-web/assets/114706743/4fe25daa-2f85-4efc-95c4-9acfbdce0669)
+![Captura de Tela (118)](https://github.com/PauloAquarius0299/italian-restaurante-web/assets/114706743/2f907a21-34f1-4cbd-882f-b045dc2c4ec8)
+![Captura de Tela (121)](https://github.com/PauloAquarius0299/italian-restaurante-web/assets/114706743/63b829ae-b29f-4b07-b851-cfb787ef5078)
+![Captura de Tela (119)](https://github.com/PauloAquarius0299/italian-restaurante-web/assets/114706743/0556923a-fc20-4d27-b347-760c8107ad4d)
+![Captura de Tela (122)](https://github.com/PauloAquarius0299/italian-restaurante-web/assets/114706743/00655b1f-2f7d-4f2e-ae0b-b7ac81aab6ba)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
